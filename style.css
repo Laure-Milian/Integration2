@@ -1,0 +1,21 @@
+
+.container {
+	width: 800px;
+	margin: 0 auto;
+}
+
+.gris {
+	background-color: grey;
+}
+
+.blanc {
+	background-color: #FFF;
+}
+
+.image_header {
+	background-color: yellow;
+}
+
+.couleur_footer {
+	background-color: red;
+}
